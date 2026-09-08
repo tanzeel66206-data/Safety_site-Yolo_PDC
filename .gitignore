@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Gradio / temporary files
+gradio_cached_examples/
+flagged/
+
+# YOLO generated files
+runs/
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db
